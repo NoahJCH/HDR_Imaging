@@ -1,9 +1,9 @@
 # HDR Imaging
-Generate HDR images from a series of low-dynamic-range images.
+Generate high-dynamic-range images from a series of low-dynamic-range images.
 
 ## Code Description
 
-The Jupyter Notebook outlines the goals of this project, and math behind each step.
+The Jupyter Notebook outlines the goals of this project and the math behind each step.
 
 ## Sample Results
 
